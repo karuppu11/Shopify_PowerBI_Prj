@@ -95,3 +95,12 @@ The dashboard enables:
 3. Granular analysis by product type, payment method, and location
 
 4. Informed marketing, operational, and inventory decisions
+
+
+![Screenshot 2025-05-19 170055](https://github.com/user-attachments/assets/228da017-59ad-4e7d-a6af-1ab8a2145deb)
+
+![Screenshot 2025-05-19 170114](https://github.com/user-attachments/assets/03f358f1-a0de-46fd-8d51-a245f344b053)
+
+
+
+
