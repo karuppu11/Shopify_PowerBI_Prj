@@ -7,39 +7,39 @@ The goal of this project is to develop an interactive Power BI dashboard that an
 🔍 Scope of Analysis:
 1. Transactions Performance
 
--> Net Sales
+   -> Net Sales
 
--> Total Quantity Sold
+   -> Total Quantity Sold
 
--> Average Order Value
+   -> Average Order Value
 
 2. Customer Purchase Behavior
 
--> Unique Customers
+  -> Unique Customers
 
--> Single vs. Repeat Customers
+  -> Single vs. Repeat Customers
 
 3. Customer Retention & Value Metrics
 
--> Lifetime Value (LTV)
+  -> Lifetime Value (LTV)
 
--> Repeat Purchase Rate
+  -> Repeat Purchase Rate
 
--> Purchase Frequency
+  -> Purchase Frequency
 
 4. Regional & Time-Based Insights
 
--> Province- and City-wise Sales
+  -> Province- and City-wise Sales
 
--> Hourly and Daily Trends
+  -> Hourly and Daily Trends
 
 5. Payment Gateway Analysis
 
--> Popular vs. Least Used Payment Methods
+  -> Popular vs. Least Used Payment Methods
 
 6. Product Type Performance
 
--> Top-performing Categories and Revenue Distribution
+  -> Top-performing Categories and Revenue Distribution
 
 🧠 Project Methodology:
 The project followed a structured data analytics life cycle, as outlined below:
@@ -61,12 +61,12 @@ Built calculated columns and measures to support KPIs such as Net Sales, Repeat 
 
 6. Dashboard Development:
 
--> Clean layout with slicers, charts, KPI cards, and filters.
+  -> Clean layout with slicers, charts, KPI cards, and filters.
 
--> Implemented dynamic measure selection and drill-through features.
+  -> Implemented dynamic measure selection and drill-through features.
 
 7. Insights Generation:
--> Highlighted key trends, anomalies, and patterns in customer behavior and revenue flow.
+  -> Highlighted key trends, anomalies, and patterns in customer behavior and revenue flow.
 
 📘 Terminology Reference:
 A separate glossary file Shopify - "Data Terminology.docx" is included to define all data fields and business metrics, ensuring clarity for non-technical stakeholders.
